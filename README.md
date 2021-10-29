@@ -1,4 +1,5 @@
 # Architect
 
-# Here is the Architect Website where people were contact with Architect.
-# they will see the portfolio and reviews of projects.
+# the Architect Website where people were see the portfolio and reviews of projects 
+# it will also contact with Architect for their personal projects.
+
